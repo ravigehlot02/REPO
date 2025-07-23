@@ -1,0 +1,104 @@
+{
+    "morning_bowl_post1": {
+        "time": "2026-07-19T04:38:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "Good morning from Beans\u202f&\u202fGreens! \ud83c\udf31\u2615 Rise and shine with a fresh, wholesome breakfast bowl to fuel your day. How do you take yours?",
+        "posted": false,
+        "platform": [
+            "instagram"
+        ],
+        "media_type": "photo"
+    },
+    "behind_scenes_post2": {
+        "time": "2025-07-24T04:12:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "\ud83c\udfac Behind the scenes in our kitchen \u2013 where magic meets fresh ingredients!",
+        "posted": true,
+        "platform": [
+            "facebook"
+        ],
+        "media_type": "photo"
+    },
+    "coffee_vibes_post3": {
+        "time": "2026-07-19T09:15:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "A warm cup of joy from Beans\u202f&\u202fGreens \u2615\ud83c\udf3f #MorningVibes",
+        "posted": false,
+        "platform": [
+            "instagram"
+        ],
+        "media_type": "photo"
+    },
+    "evening_vibes_post4": {
+        "time": "2026-07-19T18:45:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "Evening lights and bites \ud83c\udf07\u2728 What are you craving tonight?",
+        "posted": false,
+        "platform": [
+            "instagram"
+        ],
+        "media_type": "photo"
+    },
+    "salad_power_post5": {
+        "time": "2026-07-19T20:30:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "Greens that pack a punch! \ud83e\udd57\ud83d\udcaa #PostWorkoutFuel",
+        "posted": false,
+        "platform": [
+            "instagram",
+            "facebook"
+        ],
+        "media_type": "photo"
+    },
+    "sunset_time_post6": {
+        "time": "2025-12-19T21:00:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "Watch the sun dip into flavor \ud83c\udf05\ud83c\udf9e\ufe0f",
+        "posted": false,
+        "platform": [
+            "instagram"
+        ],
+        "media_type": "video"
+    },
+    "motivation_post7": {
+        "time": "2025-11-21T07:30:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "Start your week strong \ud83d\udca5\ud83d\udc9a #MondayMotivation",
+        "posted": false,
+        "platform": [
+            "facebook"
+        ],
+        "media_type": "photo"
+    },
+    "reel_teaser_post8": {
+        "time": "2025-09-21T12:00:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "\ud83d\udd25 Sneak peek of what\u2019s cooking! Full reel drops tonight. #ReelIt",
+        "posted": false,
+        "platform": [
+            "instagram"
+        ],
+        "media_type": "video"
+    },
+    "brunch_post9": {
+        "time": "2025-08-21T11:00:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "Weekend brunch dreams \ud83c\udf73\ud83e\udd5e Served with love at Beans\u202f&\u202fGreens.",
+        "posted": false,
+        "platform": [
+            "instagram"
+        ],
+        "media_type": "photo"
+    },
+    "fusion_rolls_post10": {
+        "time": "2025-07-29T19:00:00",
+        "image_url": "https://res.cloudinary.com/dem1amc4o/image/upload/t_media_lib_thumb/cld-sample.jpg",
+        "caption": "Fusion rolls that roll with your taste \ud83c\udf8e\ud83c\udf2f Dive into deliciousness!",
+        "posted": false,
+        "platform": [
+            "instagram",
+            "facebook"
+        ],
+        "media_type": "photo"
+    }
+}
