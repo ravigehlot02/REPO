@@ -51,7 +51,7 @@ def post_to_facebook(caption,image_url=None, media_type='text'):
             payload = {
                 "message": caption,
                 "attached_media": json.dumps([{"media_fbid": str(media_id)}]),
-                "published": False,
+                "published": True,
                 "access_token": ACCESS_TOKEN
             }
             headers = {"Content-Type": "application/x-www-form-urlencoded"
