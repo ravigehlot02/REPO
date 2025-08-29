@@ -27,4 +27,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: mr-r/scheduler-app:latest
+          tags: |
+            ravigehlot2/rrrrr:latest
+            ravigehlot2/rrrrr:${{ github.sha  }}
